@@ -18,10 +18,11 @@ It can be also used as a universal download manager for firmware of other brands
 
 ### **Features**
 - Download Manager
+- Payload Dumper
 - Android 16 dynamic link support with a countdown timer displaying the expiration time for temporary links, and the ability to renew/update them after expiration
 - Firmware metadata extraction (including support for third-party servers)
 - File integrity verification upon download completion (if an MD5 checksum is available)
-- Basic Settings for UI, default download path, restricting downloads to a specific network (e.g., Wi-Fi), and setting a limit on the number of concurrent downloads (5 max)
+- Basic Settings for UI, default download/extraction path, restricting downloads to a specific network (e.g., Wi-Fi), and setting a limit on the number of concurrent downloads/extractions (5 max)
 - Built-in Application Updater
 
 ## Downloads
