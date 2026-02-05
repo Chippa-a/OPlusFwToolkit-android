@@ -17,13 +17,12 @@ It can be also used as a universal download manager for firmware of other brands
 - Android 11+ (API 30)
 
 ### **Features**
-- Download Manager
-- Payload Dumper
-- Android 16 dynamic link support with a countdown timer displaying the expiration time for temporary links, and the ability to renew/update them after expiration
-- Firmware metadata extraction (including support for third-party servers)
-- File integrity verification upon download completion (if an MD5 checksum is available)
-- Basic Settings for UI, default download/extraction path, restricting downloads to a specific network (e.g., Wi-Fi), and setting a limit on the number of concurrent downloads/extractions (5 max)
-- Built-in Application Updater
+- **Download Manager** — download firmware with a detailed metadata overview.
+- **Payload Dumper** — extract images from Android OTA payload (local and remote).
+- **Android 16 Support** — dynamic link support with countdown timers and automatic renewal/update for temporary links.
+- **File Integrity Verification** — automatic MD5 checksum validation upon download completion.
+- **Configurable Settings** — manage default paths, proxy, network restrictions (e.g., Wi-Fi only), and concurrency limits (max. 5).
+- **Built-in App Updater** — stay up to date with the latest features and fixes.
 
 ## Downloads
 Official releases on [Github](https://github.com/Chippa-a/OPlusFwToolkit-android/releases)
