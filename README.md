@@ -18,9 +18,9 @@ It can be also used as a universal download manager for firmware of other brands
 
 ### **Features**
 - **Download Manager** — download firmware with a detailed metadata overview.
-- **Payload Dumper** — extract images from Android OTA payload (local and remote).
+- **Payload Dumper** — extract images from Android Full OTA payload (local and remote).
 - **Android 16 Support** — dynamic link support with countdown timers and automatic renewal/update for temporary links.
-- **File Integrity Verification** — automatic MD5 checksum validation upon download completion.
+- **File Integrity Verification** — automatic checksum validation upon download completion (MD5 required) and partition extraction.
 - **Configurable Settings** — manage default paths, proxy, network restrictions (e.g., Wi-Fi only), and concurrency limits (max. 5).
 - **Built-in App Updater** — stay up to date with the latest features and fixes.
 
